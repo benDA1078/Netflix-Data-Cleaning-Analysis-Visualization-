@@ -22,3 +22,20 @@ png("Total Movies & TV Shows available", width = 1280, height = 1280)
       theme_update()
     dev.off()
 ```
+
+```{r}
+
+```
+
+```{r}
+Netflix2 <- Netflix
+Netflix2 <- na.omit(Netflix2)
+```
+
+```{r}
+Netflix2 %>%
+  count(type) %>%
+  ggplot() + geom_col(aes(x=type,y=n,fill=type)) + 
+  labs(title = "Movies & TV Shows", subtitle = "Netflix Data", caption = "Data Source: Kaggle, *Shivam Bansal*") + 
+  theme_update()
+```
