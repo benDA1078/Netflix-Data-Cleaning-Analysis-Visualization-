@@ -4,7 +4,5 @@
 
 My first personal projects! Will be asking the following questions: 
 1.) What Netflix movie made the most income? 
-2.) Yearly Profits
-3.) What show made the most income? 
-4.) Most popular Movie/Show?
-5.) Separate Movie/Show series by genre 
+2.) Most popular Movie/Show?
+3.) Separate Movie/Show series by genre 
