@@ -62,7 +62,6 @@
       plot(country)
 ```
     
-    
 ## Create another copy of "Netflix" for Data cleaning
 ```{r}
     Netflix2 <- Netflix 
