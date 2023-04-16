@@ -1,6 +1,6 @@
 # Netflix-Data-Cleaning-Analysis-Visualization-
 
-## The Dataset is originally from Kaggle by Author: *"ABDULRASAQ ARIYO"* - https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization
+## The Dataset is originally from Kaggle by Author: *"Shivam Bansal"* - https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 My first personal projects! Will be asking the following questions: 
 1.) Movies and TV Shows that are currently available?
